@@ -1,0 +1,29 @@
+.smurf-form {
+    width: 15%;
+    margin: 0 auto 40px;
+    font-size: 18px;
+}
+
+.smurf-form form {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.smurf-form input {
+    text-align: center;
+    height: 60px;
+    font-size: 22px;
+    margin: 5px 0px;
+    border-radius: 12px;
+    outline: none;
+}
+
+.smurf-form button {
+    height: 80px;
+    color: #fff;
+    background-color: rgb(40, 86, 161);
+    font-size: 32px;
+    border-radius: 12px;
+    outline: none;
+}
