@@ -1,0 +1,11 @@
+.smurfs-wrapper {
+    background: url('https://www.publicdomainpictures.net/pictures/40000/nahled/the-house-in-the-field.jpg');
+    background-size: auto;
+    height: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-start;
+    padding: 50px;
+}

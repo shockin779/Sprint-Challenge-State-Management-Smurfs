@@ -1,0 +1,17 @@
+.smurf-card {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(68, 81, 196);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    border-radius: 12px;
+    margin: 20px;
+}
+
+.smurf-card h1 {
+    font-size: 32px;
+}
